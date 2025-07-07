@@ -2,9 +2,9 @@
 
 This project demonstrates how to handle nested JSON flight booking data using PySpark — parsing, flattening, and writing to Parquet files.
 
-| Developed BY | LastUpdate | Team |
+| Developed BY | LastUpdate | Youtube Chennel Name |
 | ------------ | ---------- | ---- |
-| Vignesan Saravanan | 07-07-2025 | 
+| Vignesan Saravanan | 07-07-2025 | VijaQuick |
 
 ## Dataset
 The `fightdataset.json` file contains flight bookings with nested arrays and structs.

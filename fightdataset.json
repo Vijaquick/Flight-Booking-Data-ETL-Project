@@ -1,0 +1,66 @@
+[
+  {
+    "booking_id": "BKG001",
+    "customer": {
+      "name": "Vignesan",
+      "email": "vignesan@example.com",
+      "phone": "9876543210"
+    },
+    "flights": [
+      {
+        "flight_no": "AI101",
+        "from_city": "Chennai",
+        "to_city": "Delhi",
+        "depart": "2025-07-06 09:00",
+        "arrive": "2025-07-06 11:30"
+      },
+      {
+        "flight_no": "AI202",
+        "from_city": "Delhi",
+        "to_city": "Kolkata",
+        "depart": "2025-07-06 13:00",
+        "arrive": "2025-07-06 15:00"
+      }
+    ],
+    "booking_date": "2025-07-01T15:30:00",
+    "status": "Confirmed"
+  },
+  {
+    "booking_id": "BKG002",
+    "customer": {
+      "name": "Siva",
+      "email": "siva@example.com",
+      "phone": "9123456780"
+    },
+    "flights": [
+      {
+        "flight_no": "6E303",
+        "from_city": "Mumbai",
+        "to_city": "Bangalore",
+        "depart": "2025-07-07 08:00",
+        "arrive": "2025-07-07 10:00"
+      }
+    ],
+    "booking_date": "2025-07-02T10:15:00",
+    "status": "Cancelled"
+  },
+  {
+    "booking_id": "BKG003",
+    "customer": {
+      "name": "Manoj",
+      "email": "manoj@example.com",
+      "phone": "9988776655"
+    },
+    "flights": [
+      {
+        "flight_no": "SJ404",
+        "from_city": "Hyderabad",
+        "to_city": "Chennai",
+        "depart": "2025-07-07 18:00",
+        "arrive": "2025-07-07 20:30"
+      }
+    ],
+    "booking_date": "2025-07-03T09:00:00",
+    "status": "Confirmed"
+  }
+]
